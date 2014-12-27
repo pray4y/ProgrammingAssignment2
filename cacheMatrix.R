@@ -1,3 +1,5 @@
+## [NOTE] This file is copied from Lexical_Scoping under my account.
+
 ## The first function will cache the inverse of an n by n matrix 'z', 
 ## while the second function will compute the inverse of matrix 'z'.
 
